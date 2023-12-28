@@ -7,9 +7,15 @@
 h1 {
   margin: 20px;
   text-align: left;
-  color: white;
+  padding: 10px;
+  background-color: red;
+  cursor: pointer;
+  border-radius: 10px;
+  transition-property: color, background;
+  transition: 1s ease;
 }
 
-h1::selection {
-  color: black;
+h1:hover {
+  color: red;
+  background-color: black;
 }
