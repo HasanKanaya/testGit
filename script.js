@@ -143,10 +143,4 @@
 
 // ### Great job! Please continue to the next lesson.
 
-// Number Methods
-// toString
-
-let x = 120;
-let y = x.toString();
-
-console.log(y, typeof y);
+// String
