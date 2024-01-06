@@ -143,5 +143,10 @@
 
 // ### Great job! Please continue to the next lesson.
 
-console.log(10_00000000000);
-console.log(10e12);
+// Number Methods
+// toString
+
+let x = 120;
+let y = x.toString();
+
+console.log(y, typeof y);
