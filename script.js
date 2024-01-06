@@ -143,4 +143,5 @@
 
 // ### Great job! Please continue to the next lesson.
 
-// Data Types
+console.log(10_00000000000);
+console.log(10e12);
