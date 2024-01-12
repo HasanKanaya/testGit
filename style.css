@@ -7,6 +7,10 @@
   /* flex-wrap: wrap; */
 }
 
+h1 {
+  margin-left: 20px;
+}
+
 .parent .child {
   width: 70px;
   height: 70px;
