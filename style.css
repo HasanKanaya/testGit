@@ -1,5 +1,42 @@
-div {
+.parent {
+  width: 200px;
+  height: 200px;
+  border: 4px solid black;
+  margin: 20vh auto;
+  display: flex;
+  /* flex-wrap: wrap; */
+}
+
+.parent .child {
+  width: 70px;
+  height: 70px;
+  margin: 2px;
+  border: 2px solid black;
+}
+
+.parent .one {
   background-color: yellow;
-  margin: 0 auto;
-  width: fit-content;
+  animation-name: hasan;
+  animation-duration: 2s;
+  animation-iteration-count: 2;
+}
+
+.parent .one:hover {
+  animation-play-state: paused;
+}
+
+.parent .two {
+  background-color: red;
+}
+
+@keyframes hasan {
+  0% {
+    background-color: yellow;
+  }
+  50% {
+    background-color: slateblue;
+  }
+  100% {
+    background-color: yellow;
+  }
 }
