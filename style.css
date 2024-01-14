@@ -8,7 +8,7 @@
   background-color: rgb(255, 255, 0);
   margin: 10vh auto;
   border-radius: 10px;
-  transition: background 0.4s linear;
+  transition: background 0.2s linear;
 }
 .parent:hover {
   background-color: rgb(131, 131, 0);
