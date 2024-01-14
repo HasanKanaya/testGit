@@ -7,6 +7,7 @@
   align-items: center;
   background-color: yellow;
   margin: 10vh auto;
+  border-radius: 10px;
 }
 
 .parent .child {
