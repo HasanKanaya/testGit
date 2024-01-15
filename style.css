@@ -1,5 +1,13 @@
-.btn {
-  background-color: red;
+.btn-one {
+  color: red;
+}
+
+.btn-two {
+  color: blue;
+}
+
+.btn-three {
+  color: black;
 }
 
 h2.one {
