@@ -1,2 +1,3 @@
 // toString
 // toFixed
+// pareseInt
