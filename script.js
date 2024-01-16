@@ -1,5 +1,3 @@
-// toString
-// toFixed
-// pareseInt
-// pareseFloat
-// isInterger
+// Math Object
+// round
+// ceil
