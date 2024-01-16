@@ -5,3 +5,5 @@
 // min
 // max
 // pow
+// random
+// trunc
